@@ -1,0 +1,1 @@
+# react-class-bind-function
