@@ -1,0 +1,7 @@
+.Animal {
+  margin: 16px auto;
+  border: 1px solid #ccc;
+  padding: 16px;
+  width: 60%;
+  box-shadow: 0 2px 3px #bbb;
+}
